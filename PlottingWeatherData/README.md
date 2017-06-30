@@ -1,6 +1,6 @@
 ## Plotting Weather Data
 
-An NOAA dataset has been stored in the file `NOAAData.csv`.The data for this comes from a subset of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
+An NOAA dataset has been stored in the file `NOAAData.csv`.This data comes from a subset of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
 
 
 Each row in the assignment datafile corresponds to a single observation.
