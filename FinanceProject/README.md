@@ -16,4 +16,4 @@ We need to get data using pandas datareader. We will get stock information for t
 
 
 ### Note 
-For plots use Finance Project jupyter notebook ("Finance Project.ipynb")
+For plots use Finance Project jupyter notebook ("Finance+Project+.ipynb")
