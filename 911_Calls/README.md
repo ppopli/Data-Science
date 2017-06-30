@@ -24,9 +24,9 @@ What are the top 5 townships (twp) for 911 calls?
 how many unique title codes are there? 
 
 ##  Creating new features
-** In the titles column there are "Reasons/Departments" specified before the title code. These are EMS, Fire, and Traffic. Use .apply() with a custom lambda expression to create a new column called "Reason" that contains this string value.** 
+** In the titles column there are "Reasons/Departments" specified before the title code. These are EMS, Fire, and Traffic. Use .apply() with a custom lambda expression to create a new column called "Reason" that contains this string value. ** 
 
-**For example, if the title column value is EMS: BACK PAINS/INJURY , the Reason column value would be EMS. **
+** For example, if the title column value is EMS: BACK PAINS/INJURY , the Reason column value would be EMS. **
 
 ### Question 4
 Create a countplot of 911 calls by Reason.
