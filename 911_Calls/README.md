@@ -24,14 +24,14 @@ What are the top 5 townships (twp) for 911 calls?
 how many unique title codes are there? 
 
 ##  Creating new features
-** In the titles column there are "Reasons/Departments" specified before the title code. These are EMS, Fire, and Traffic. Use .apply() with a custom lambda expression to create a new column called "Reason" that contains this string value. ** 
+In the titles column there are "Reasons/Departments" specified before the title code. These are EMS, Fire, and Traffic. Use .apply() with a custom lambda expression to create a new column called "Reason" that contains this string value. ** 
 
-** For example, if the title column value is EMS: BACK PAINS/INJURY , the Reason column value would be EMS. **
+For example, if the title column value is EMS: BACK PAINS/INJURY , the Reason column value would be EMS.
 
 ### Question 4
 Create a countplot of 911 calls by Reason.
 
-** We noticed that data was missing some Months, let's see if we can maybe fill in this information by plotting the information in another way, possibly a simple line plot that fills in the missing months, in order to do this, we'll need to do some work with pandas... **
+We noticed that data was missing some Months, let's see if we can maybe fill in this information by plotting the information in another way, possibly a simple line plot that fills in the missing months, in order to do this, we'll need to do some work with pandas...
 
 * Create a gropuby object called byMonth, where you group the DataFrame by the month column and use the count() method for aggregation. Use the head() method on this returned DataFrame.
 * Create a simple plot off of the dataframe indicating the count of calls per month 
