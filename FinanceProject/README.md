@@ -13,3 +13,7 @@ We need to get data using pandas datareader. We will get stock information for t
 * JPMorgan Chase
 * Morgan Stanley
 * Wells Fargo
+
+
+### Note 
+For plots use Finance Project jupyter notebook ("Finance Project.ipynb")
