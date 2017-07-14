@@ -20,10 +20,10 @@ Based on the above mentioned features we have to predict the label `Yearly Amoun
 
 ### Coeffecients
 
-Avg. Session Length     25.981550
-Time on App             38.590159
-Time on Website          0.190405
-Length of Membership    61.279097
+* Avg. Session Length     25.981550
+* Time on App             38.590159
+* Time on Website          0.190405
+* Length of Membership    61.279097
 
 
 Looking at the coefecients for "Time on App (38.590159)" and for "Time on 
