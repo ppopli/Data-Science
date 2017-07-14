@@ -20,7 +20,7 @@ Based on the above mentioned features we have to predict the label `Yearly Amoun
 
 ### Coeffecients
 
-                    ** Coeficients **
+                       Coeficients 
 Avg. Session Length     25.981550
 Time on App             38.590159
 Time on Website          0.190405
@@ -30,12 +30,12 @@ Length of Membership    61.279097
 Looking at the coefecients for "Time on App (38.590159)" and for "Time on 
 website(0.190405)" it is observed that with every minute spent on App would 
 increase the "Yearly Amount Spent" by $39 approx where as every minute 
-spent on webseite would increase the "Yearly Amount Spent" by $0.19 keeping
+spent on website would increase the "Yearly Amount Spent" by $0.19 keeping
 other coeffecints fixed. This can be interpreted in two ways :- 
     
  1.) Company can focus more on the website to enhance the user experience 
      on website so that website traffic could be increased, which would
-     increase the "Yearly Amount Spent".
+     increase the `Yearly Amount Spent`.
     
         
  2.) Company's App is doing much better than the website, Company could 
