@@ -20,7 +20,6 @@ Based on the above mentioned features we have to predict the label `Yearly Amoun
 
 ### Coeffecients
 
-                       Coeficients 
 Avg. Session Length     25.981550
 Time on App             38.590159
 Time on Website          0.190405
