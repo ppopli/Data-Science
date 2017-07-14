@@ -13,4 +13,4 @@ We'll work with the Ecommerce Customers csv file from the company. It has Custom
 * Time on Website: Average time spent on Website in minutes
 * Length of Membership: How many years the customer has been a member. 
 
-Based on the above mentioned features we have to predict the label ** Yearly Amount Spent ** to help company decide whether to focus on App or Website.
+Based on the above mentioned features we have to predict the label `Yearly Amount Spent` to help company decide whether to focus on App or Website.
