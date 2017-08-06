@@ -8,7 +8,7 @@ We'll try to use KNN to create a model that directly predicts a class for a new 
 
 **Classification Report**
              
-			 precision    recall  f1-score   support
+			precision    recall  f1-score   support
 
           0       0.84      0.82      0.83       152
           1       0.82      0.84      0.83       148

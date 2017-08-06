@@ -13,10 +13,11 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 **Classification Report**
               
              precision    recall  f1-score   support
-   setosa       1.00      1.00      1.00        17
-   versicolor   1.00      1.00      1.00        13
-   virginica    1.00      1.00      1.00        15
-   avg / total  1.00      1.00      1.00        45
+			 
+setosa       1.00      1.00      1.00        17
+versicolor   1.00      1.00      1.00        13
+virginica    1.00      1.00      1.00        15
+avg / total  1.00      1.00      1.00        45
 
 
 **Confusion Matrix**
