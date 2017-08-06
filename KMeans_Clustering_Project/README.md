@@ -41,11 +41,5 @@ We will use a data frame with 777 observations on the following 18 variables.
           0       0.21      0.65      0.31       212
           1       0.31      0.06      0.10       565
          avg      0.29      0.22      0.16       777
-
-
-
-**Confusion Matrix**
-[[138  74]
- [531  34]]
  
 **Not bad considering the algorithm is purely using the features to cluster the universities into 2 distinct groups**

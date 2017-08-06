@@ -25,8 +25,4 @@ This data set contains the following features:
 	     avg      0.92      0.92      0.92       300 
 
 
-**Confusion Matrix**
- [[149   8]
- [ 15 128]]
-       
 **Looking at the classification report, our model has an accuracy of 92%**

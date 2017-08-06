@@ -14,9 +14,5 @@ We'll try to use KNN to create a model that directly predicts a class for a new 
           1       0.82      0.84      0.83       148
         avg       0.83      0.83      0.83       300
 
-**Confusion Matrix**
-[[125  27]
- [ 24 124]]
-
        
 **Looking at the classification report, our model has an accuracy of 83%**
