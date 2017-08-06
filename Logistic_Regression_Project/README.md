@@ -16,7 +16,7 @@ This data set contains the following features:
 
 ## Evaluation
 
-** Classification Report **
+**Classification Report**
               precision    recall  f1-score   support
 
           0       0.91      0.95      0.93       157
@@ -25,8 +25,8 @@ This data set contains the following features:
 avg / total       0.92      0.92      0.92       300 
 
 
-** Confusion Matrix **
+**Confusion Matrix**
  [[149   8]
  [ 15 128]]
        
-** Looking at the classification report, our model has an accuracy of 92% **
+**Looking at the classification report, our model has an accuracy of 92%**
