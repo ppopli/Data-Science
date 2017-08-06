@@ -22,7 +22,7 @@ This data set contains the following features:
 
           0       0.91      0.95      0.93       157
           1       0.94      0.90      0.92       143
-		avg      0.92      0.92      0.92       300 
+	avg      0.92      0.92      0.92       300 
 
 
 **Confusion Matrix**
